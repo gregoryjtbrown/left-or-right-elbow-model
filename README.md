@@ -4,6 +4,10 @@
     An image classification AI to discern between left and right elbow x-rays.
 
   </p>
+  <p align="center">
+   <a href="https://drive.google.com/drive/folders/1j-aEcx33a9sr8uiT3PsIBlSxbpVgk6ml?usp=sharing">Dataset Used</a>
+</p>
+  
 <p align="center">
    <a href="https://github.com/gregoryjtbrown/left-or-right-elbow-failed-deploy/">Failed Deployment Repository</a>
 </p>
