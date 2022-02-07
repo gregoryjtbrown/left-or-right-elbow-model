@@ -8,10 +8,6 @@
    <a href="https://drive.google.com/drive/folders/1j-aEcx33a9sr8uiT3PsIBlSxbpVgk6ml?usp=sharing">Dataset Used</a>
 </p>
   
-<p align="center">
-   <a href="https://github.com/gregoryjtbrown/left-or-right-elbow-failed-deploy/">Failed Deployment Repository</a>
-</p>
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
