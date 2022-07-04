@@ -11,7 +11,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-In participation of a Master's Project, a model to discern between the x-rays is created with 150 unique and hand-chosen elbow anteroposterior x-rays. 
+In participation of a Master's Project, a model to discern between the x-rays is created with unique elbow anteroposterior x-rays. 
 
   <p align ="center">
   <img src="screenshot1.png"></img>
